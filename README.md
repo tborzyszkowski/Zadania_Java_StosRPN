@@ -7,11 +7,11 @@
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
-- punkty uzyskania za realizację zadania są dzielone przez **2<sup>n</sup>**.
+- punkty uzyskane za realizację zadania są dzielone przez **2<sup>n</sup>**.
 
 --- 
 
-## Zadanie 1 Stos
+## Zadanie 1: Stos
 
 ### Green
 
@@ -27,11 +27,11 @@ Podstawową strukturą danych w implementacji stosu powinna być tablica. Stos n
 
 Przygotuj testy jednostkowe dla klasy ``Stack``. 
 
-## Zadanie 2 RPN
+## Zadanie 2: RPN
 
 ### Green
 
-Zaimplementuj klasę wyliczającą wyrażenia arytmetyczne zapisane w Odwrotnej Notacji Polskiej.
+Zaimplementuj klasę wyliczającą wyrażenia arytmetyczne zapisane w [Odwrotnej Notacji Polskiej](https://pl.wikipedia.org/wiki/Odwrotna_notacja_polska).
 Założenia:
 - wyrażenia są ciągami znaków
 - program umożliwia wyliczanie wyrażeń złożonych z liczb całkowitych i operacji binarnych takich jak ``+``, ``-`` czy ``*``.
@@ -41,5 +41,8 @@ Założenia:
 
 Przygotuj testy jednostkowe dla implementacji RPN.
 
-## UWAGA: Staj się zastosować zasady [SOLID](https://www.samouczekprogramisty.pl/solid-czyli-dobre-praktyki-w-programowaniu-obiektowym/)
+---
+
+## UWAGA: 
+Staj się zastosować zasady [SOLID](https://www.samouczekprogramisty.pl/solid-czyli-dobre-praktyki-w-programowaniu-obiektowym/)
 i [Clean Code](https://cleancoders.com/episode/clean-code-episode-1).
