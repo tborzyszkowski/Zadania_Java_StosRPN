@@ -13,8 +13,7 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
 
 ## Zadanie 1: Stos
 
-### <font color="green">Green</font>
-
+### Green
 Zaimplementuj klasę ``Stack`` implementującą ideę stosów napisów z następującymi metodami publicznymi:
 - ``push`` wkłada jeden element na stos
 - ``pop`` zdejmuje jeden element ze stosu i oddaje wartość tego elementu; co się ma dziać gdy, ``pop`` próbuje 
@@ -24,13 +23,11 @@ Zaimplementuj klasę ``Stack`` implementującą ideę stosów napisów z następ
 Podstawową strukturą danych w implementacji stosu powinna być tablica. Stos nie powinien posiadać ograniczeń rozmiaru.
 
 ### Red
-
 Przygotuj testy jednostkowe dla klasy ``Stack``. 
 
 ## Zadanie 2: RPN
 
 ### Green
-
 Zaimplementuj klasę wyliczającą wyrażenia arytmetyczne zapisane w [Odwrotnej Notacji Polskiej](https://pl.wikipedia.org/wiki/Odwrotna_notacja_polska).
 Założenia:
 - wyrażenia są ciągami znaków
@@ -38,7 +35,6 @@ Założenia:
 - do implementacji wykorzystaj klasę ``Stack`` z Zadania 1.
 
 ### Red
-
 Przygotuj testy jednostkowe dla implementacji RPN.
 
 ---
