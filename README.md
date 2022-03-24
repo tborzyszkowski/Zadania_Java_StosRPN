@@ -13,7 +13,7 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
 
 ## Zadanie 1: Stos
 
-### Green
+### <font color="green">Green</font>
 
 Zaimplementuj klasę ``Stack`` implementującą ideę stosów napisów z następującymi metodami publicznymi:
 - ``push`` wkłada jeden element na stos
