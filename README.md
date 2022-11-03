@@ -3,7 +3,7 @@
 
 | Termin oddania      | Punkty     |
 |---------------------|:-----------|
-|    13.04.2022 23:00 |   10        |
+|    25.11.2022 23:00 |   10       |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -40,5 +40,5 @@ Przygotuj testy jednostkowe dla implementacji RPN.
 ---
 
 ## UWAGA: 
-Staj się zastosować zasady [SOLID](https://www.samouczekprogramisty.pl/solid-czyli-dobre-praktyki-w-programowaniu-obiektowym/)
+Staraj się zastosować zasady [SOLID](https://www.samouczekprogramisty.pl/solid-czyli-dobre-praktyki-w-programowaniu-obiektowym/)
 i [Clean Code](https://cleancoders.com/episode/clean-code-episode-1).
