@@ -3,7 +3,7 @@
 
 | Termin oddania      | Punkty     |
 |---------------------|:-----------|
-|    25.11.2022 23:00 |   10       |
+|    24.03.2023 23:00 |   10       |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -13,7 +13,7 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
 
 ## Zadanie 1: Stos
 
-### Green
+### 01 Green
 Zaimplementuj klasę ``Stack`` implementującą ideę stosów napisów z następującymi metodami publicznymi:
 - ``push`` wkłada jeden element na stos
 - ``pop`` zdejmuje jeden element ze stosu i oddaje wartość tego elementu; co się ma dziać gdy, ``pop`` próbuje 
@@ -22,8 +22,8 @@ Zaimplementuj klasę ``Stack`` implementującą ideę stosów napisów z następ
     podobny problem z pustym stosem co w przypadku ``pop``.
 Podstawową strukturą danych w implementacji stosu powinna być tablica. Stos nie powinien posiadać ograniczeń rozmiaru.
 
-### Red
-Przygotuj testy jednostkowe dla klasy ``Stack``. 
+### 00 Red
+Przygotuj testy jednostkowe dla klasy ``Stack`` zanim przystąpisz do implementacji tej klasy.
 
 ## Zadanie 2: RPN
 
