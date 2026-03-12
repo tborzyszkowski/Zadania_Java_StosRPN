@@ -3,7 +3,7 @@
 
 | Termin oddania      | Punkty     |
 |---------------------|:-----------|
-|    10.04.2026 23:00 |   10       |
+|    10.04.2026 23:00 |   15       |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -11,7 +11,7 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
 
 --- 
 
-## Zadanie 1: Stos
+## Zadanie 1: Stos (5 punktów)
 
 ### 01 Green
 Zaimplementuj klasę ``Stack`` implementującą ideę stosów napisów z następującymi metodami publicznymi:
@@ -25,7 +25,7 @@ Podstawową strukturą danych w implementacji stosu powinna być tablica. Stos n
 ### 00 Red
 Przygotuj testy jednostkowe dla klasy ``Stack`` zanim przystąpisz do implementacji tej klasy.
 
-## Zadanie 2: RPN
+## Zadanie 2: RPN (10 punktów)
 
 ### Green
 Zaimplementuj klasę wyliczającą wyrażenia arytmetyczne zapisane w [Odwrotnej Notacji Polskiej](https://pl.wikipedia.org/wiki/Odwrotna_notacja_polska).
