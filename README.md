@@ -3,7 +3,7 @@
 
 | Termin oddania      | Punkty     |
 |---------------------|:-----------|
-|    28.03.2025 23:00 |   10       |
+|    10.04.2026 23:00 |   10       |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -33,6 +33,8 @@ Założenia:
 - wyrażenia są ciągami znaków
 - program umożliwia wyliczanie wyrażeń złożonych z liczb całkowitych i operacji binarnych takich jak ``+``, ``-`` czy ``*``.
 - do implementacji wykorzystaj klasę ``Stack`` z Zadania 1.
+
+Rozszerz rozwiązanie by umożliwiało łatwe dodawanie dowolnych operacji n-argumentowych (n: 1-...) tak by zachować SRP i Open-Close z zasad SOLID.
 
 ### Red
 Przygotuj testy jednostkowe dla implementacji RPN.
